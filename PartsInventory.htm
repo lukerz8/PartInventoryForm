@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>LEGO Kit Inventory Form | EV3</title>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+    <style>
+        .pgTop h2 { text-align: center; }
+         #container { width: 860px; margin: 0px auto; }
+		#txtFields { margin: 0px auto; padding: 2px 0px 8px; width: 824px; }
+		.txtField { padding-right: 12px; padding-bottom: 10px; display: inline-block; }
+		#contactInfo { font-size: 13px; font-style: italic; text-align: center; display: block; }
+        .legoPart { outline: 1px solid #CCC; float: left; width: 90px; font-size: 12px;
+                    height: 130px; margin: 4px; padding: 3px; text-align: center; position: relative; }
+        .legoPart .desc { font-size: 9px;  }
+        .legoPart .count { position: absolute; bottom: 3px; left: 20px; white-space: nowrap;}
+        .legoPart img { width: 64px; height: auto; margin: 5px auto;
+                        padding: 4px; display: block; }
+        .chkBox { width: 12px; height: 16px; display: inline-block; border: 1px solid #AAA;
+                  position: absolute; bottom: 3px; left: 3px;}
+    </style>
+    <script type="text/javascript">
+        $(document).ready(function() {
+			$.getJSON("data/converter/kits/ev3.json", function(data) { // TODO: get this dynamically!
+                $.each(data.parts, function(key, val) {
+					// Formatting for multiple pages
+					if (key > 55) { // 56 fit on page 1, 64 on other pages
+						if ((key - 56) % 64 == 0) {
+							$("<div />", {
+								"style": "clear:both",
+								"html": "&nbsp;"
+							}).appendTo(".pgBody");
+						}
+					}
+
+                    $( "<div/>", {
+                        "class": "legoPart",
+                        "id": key,
+                    }).appendTo(".pgBody");
+
+                    $("<span/>", {
+                        "class": "desc",
+                        "text": val.desc
+                    }).appendTo("#" + key + ".legoPart");
+
+                    $("<img/>", {
+                        "src": "data/images/" + val.partNum + ".jpg"
+                    }).appendTo("#" + key + ".legoPart");
+
+                    $("<div/>", {
+                        "class": "chkBox",
+                        "html":"&nbsp;"
+                    }).appendTo("#" + key + ".legoPart");
+
+                    $("<span/>", {
+                        "class": "count",
+                        "html": " / " + val.count + " - #" + val.partNum
+                    }).appendTo("#" + key + ".legoPart");
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+<div id="container">
+    <div class="pgTop">
+		<h2>EV3 Inventory Form</h2> <!--TODO: also make this dynamic-->
+        <div id="txtFields">
+            <span class="txtField">Kit Number: ____________________</span>
+            <span class="txtField">Last Updated: ____/____/________</span>
+			<span class="txtField">Checked Out By: ____________________</span><br />
+			<span id="contactInfo">
+				Contact Info Goes Here.
+			</span>
+        </div>
+    </div>
+    <div><hr /></div>
+    <div class="pgBody"></div>
+</div>
+</body>
+</html>
