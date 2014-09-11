@@ -1,0 +1,102 @@
+PartID,Quantity,Category,PartName
+4141270,6,Beams,Angle Beam  4X2 90 Deg
+4211713,2,Beams,Angle Beam 3X5 90 Deg
+4585040,4,Beams,Angle Beam 3X5 90 Deg 
+4211624,4,Beams,Angle Beam 3X7
+4509912,6,Beams,Angle Beam 4X4
+4112282,4,Beams,Angle Beam 4X6
+4495412,4,Beams,Angle Beam Double 3X7 45 Deg
+4611705,4,Beams,Beam 11M
+4522934,6,Beams,Beam 13M
+4542578,6,Beams,Beam 15M
+4142822,2,Beams,Beam 3M
+4153707,4,Beams,Beam 3M
+4153718,4,Beams,Beam 3M
+4509376,4,Beams,Beam 3M
+6007973,4,Beams,Beam 3M
+4552347,4,Beams,Beam 3X3 T
+4211651,4,Beams,Beam 5M
+4495930,4,Beams,Beam 7M
+4211866,6,Beams,Beam 9M
+4142236,2,Beams Half,Half Beam Lever 1X4
+6009019,4,Beams Half,Half Beam Triangle 3X5
+4563044,2,Beams Half,Steering Knuckle Arm 2X1X3
+6006140,4,Beams Special,Beam 1X2 W/Cross And Hole
+4540797,1,Beams Special,Beam Frame 5X11
+4539880,3,Beams Special,Beam Frame 5X7
+4211775,8,Beams Special,Cross Block 1X1
+4140430,4,Beams Special,Cross Block 2X1
+4162857,4,Beams Special,Cross Block 2X2 Fork 
+4210857,8,Beams Special,Cross Block 3M
+4538007,6,Beams Special,Cross Block 3X2
+4121667,8,Beams Special,Cross Block Double
+6008527,2,Beams Special,Cross Block V 90 Deg
+4560175,4,Beams Special,Double Bush 3M
+4225033,6,Beams Special,Snap Beam 3M W/4 Snaps
+4296059,4,Beams Special,Snap Beam 90 Deg W/4 Snaps
+4566251,1,Beams With Bows,Left Panel 3X5
+4541326,1,Beams With Bows,Left Panel 5X11
+4566249,1,Beams With Bows,Right Panel 3X5
+4543490,1,Beams With Bows,Right Panel 5X11
+4107085,4,Connectors,Angle Element  0 Degrees [1]
+4107783,4,Connectors,Angle Element  180 Degrees [2]
+4107767,2,Connectors,Angle Element  90 Degrees [6]
+4211622,10,Connectors,Bushing
+4239601,10,Connectors,Bushing 1/2 
+4211807,10,Connectors,Connector Peg
+4514554,6,Connectors,Connector Peg 3M
+4121715,60,Connectors,Connector Peg Fric.
+4140806,22,Connectors,Connector Peg Fric. 2M W/Cross H.
+4514553,30,Connectors,Connector Peg Fric. 3M
+4206482,20,Connectors,Connector Peg Fric. W/Cross
+4666579,8,Connectors,Connector Peg W/Cross
+4513174,6,Connectors,Cross Axle  Extension  2M
+373726,2,Connectors,Cross Axle 10M
+370826,2,Connectors,Cross Axle 12M
+4142865,10,Connectors,Cross Axle 2M  W. Groove
+4502595,2,Connectors,Cross Axle 3-Branch  W/Cross H.
+4211815,14,Connectors,Cross Axle 3M
+370526,4,Connectors,Cross Axle 4M
+4560177,2,Connectors,Cross Axle 4M With End Stop
+4211639,6,Connectors,Cross Axle 5M
+370626,4,Connectors,Cross Axle 6M
+4211805,5,Connectors,Cross Axle 7M
+370726,2,Connectors,Cross Axle 8M
+4499858,2,Connectors,Cross Axle 8M With End Stop
+4535768,2,Connectors,Cross Axle 9M
+6031821,2,Connectors,Crossaxle 3M With Knob
+4198367,4,Connectors,Damper 2M
+4526985,4,Connectors,Tube W/Double
+6036901,1,Electric Parts,Cable Mini USB
+6024581,4,Electric Parts,Cable RJ12 25 cm/10 in. 
+6024583,2,Electric Parts,Cable RJ12 35 cm/14 in. 
+6024585,1,Electric Parts,Cable RJ12 50 cm/25 in. 
+6009996,1,Electric Parts,EV3 Intelligent Brick
+6008577,1,Electric Parts,EV3 Medium Motor
+6009430,2,Electric Parts,EV3 Motor Large
+6012820,1,Electric Parts,Ev3 Rechargeable DC Battery
+6008919,1,Electric Parts,EV3 Sensor Color
+6008916,1,Electric Parts,EV3 Sensor Gyro
+6008472,2,Electric Parts,EV3 Sensor Touch
+6008924,1,Electric Parts,EV3 Sensor Ultrasonic
+4248204,4,Functional Elements Gear Wheels And Racks,Angular Wheel
+6023956,1,Functional Elements Gear Wheels And Racks,Caster Ball
+4610380,1,Functional Elements Gear Wheels And Racks,Caster Joint
+4285634,2,Functional Elements Gear Wheels And Racks,Gear 40T
+4565452,2,Functional Elements Gear Wheels And Racks,Gear Double Conical Z12
+4177431,2,Functional Elements Gear Wheels And Racks,Gear Double Conical Z12 1M
+4177430,2,Functional Elements Gear Wheels And Racks,Gear Double Conical Z20 1M
+4255563,2,Functional Elements Gear Wheels And Racks,Gear Double Conical Z36
+6012451,4,Functional Elements Gear Wheels And Racks,Gear T8
+4211510,2,Functional Elements Gear Wheels And Racks,Gear Worm
+4640536,4,Functional Elements Gear Wheels And Racks,Gear Z16
+4514558,4,Functional Elements Gear Wheels And Racks,Gear Z24
+4652235,2,Functional Elements Gear Wheels And Racks,Turntable Lower Part Z28
+4652236,2,Functional Elements Gear Wheels And Racks,Turntable Upper Part Z28
+4173941,4,Modelling Elements,Bionic Eye
+6014648,54,Tires And Rims,Track Element 5X1
+4634091,2,Tires And Rims,Wheel Rim Wide 43.2 X 26
+4582792,4,Tires And Rims,Wheel Sprocket Large
+6035364,2,Tires And Rims,Wheel Tire Low Wide 56 X 28
+4587275,4,Tires And Rims,Wheel Wedge-Belt Rim
+6028041,4,Tires And Rims,Wheel Wedge-Belt Tire
