@@ -1,0 +1,101 @@
+PartID,Quantity,Category,PartName
+4210667,4,Beams,Angle Beam  4X2 90 Deg
+4210753,8,Beams,Angle Beam 3X5 90 Deg 
+4210638,4,Beams,Angle Beam 4X6
+4210668,4,Beams,Angle Beam Double 3X7 45 Deg
+4603472,2,Beams,Beam 11M
+4522937,2,Beams,Beam 13M
+4542576,4,Beams,Beam 15M
+4210751,10,Beams,Beam 3M
+4210686,4,Beams,Beam 5M
+4495931,4,Beams,Beam 7M
+4645730,6,Beams,Beam 9M
+4211775,20,Beams Special,Cross Block 1X1
+4210655,2,Beams Special,Cross Block 2X1
+4210857,4,Beams Special,Cross Block 3M
+4121667,8,Beams Special,Cross Block Double
+4225033,2,Beams Special,Snap Beam 3M W/4 Snaps
+4296059,6,Beams Special,Snap Beam 90 Deg W/4 Snaps
+4211388,8,Bricks,Brick 1X2
+306548,1,Bricks,Brick 1X2
+306541,1,Bricks,Brick 1X2
+306544,1,Bricks,Brick 1X2
+4211387,4,Bricks,Brick 2X2
+4211443,4,Bricks And Beams Special,Brick 1X16 W/Hole
+4210935,2,Bricks And Beams Special,Brick 1X2 W/Cross Hole
+4211440,4,Bricks And Beams Special,Brick 1X2 W/Hole
+4211441,4,Bricks And Beams Special,Brick 1X4 W/Hole
+4211466,4,Bricks And Beams Special,Brick 1X6 W/Hole
+4211442,4,Bricks And Beams Special,Brick 1X8 W/Hole
+4107783,2,Connectors,Angle Element  180 Degrees [2]
+4211622,10,Connectors,Bushing
+4239601,10,Connectors,Bushing 1/2
+4121715,60,Connectors,Connector Peg Fric.
+4140801,8,Connectors,Connector Peg Fric. 2M W/Cross H.
+655826,36,Connectors,Connector Peg Fric. 3M
+4514553,36,Connectors,Connector Peg Fric. 3M
+4206482,10,Connectors,Connector Peg Fric. W/Cross
+4666579,8,Connectors,Connector Peg W/Cross
+4113805,4,Connectors,Cross Axle  Extension 2M
+4512363,4,Connectors,Cross Axle  Extension 2M
+373726,2,Connectors,Cross Axle 10M
+370826,2,Connectors,Cross Axle 12M
+4142865,8,Connectors,Cross Axle 2M  W/Groove
+4211815,14,Connectors,Cross Axle 3M
+370526,6,Connectors,Cross Axle 4M
+4508553,2,Connectors,Cross Axle 4M With End Stop 1M
+4211639,8,Connectors,Cross Axle 5M
+370626,4,Connectors,Cross Axle 6M
+370726,2,Connectors,Cross Axle 8M
+4119589,2,Connectors,Module Bush
+4297187,1,Electric Parts,Cable 0.20 M
+4297188,4,Electric Parts,Cable 0.35 M
+4297185,2,Electric Parts,Cable 0.5 M
+4494063,3,Electric Parts,Cable Rj12 Converter
+4532371,1,Electric Parts,Cable USB
+4603220,3,Electric Parts,Lamp Brick 1X2
+6034375,1,Electric Parts,NXT Intelligent Brick
+4297008,3,Electric Parts,NXT Motor
+4565588,1,Electric Parts,NXT Rechargeable DC Battery
+4296917,1,Electric Parts,NXT Sensor Light
+4296969,1,Electric Parts,NXT Sensor Sound
+4296929,2,Electric Parts,NXT Sensor Touch
+4297174,1,Electric Parts,NXT Sensor Ultrasound
+4520872,1,Functional Elements,Turntable
+4248204,4,Functional Elements Gear Wheels And Racks,Angular Wheel
+4211434,2,Functional Elements Gear Wheels And Racks,Gear Crown Z24
+4177431,4,Functional Elements Gear Wheels And Racks,Gear Double Conical Z12
+4514555,2,Functional Elements Gear Wheels And Racks,Gear Double Conical Z20 1M
+4211635,2,Functional Elements Gear Wheels And Racks,Gear Double Conical Z20 1M
+4255563,2,Functional Elements Gear Wheels And Racks,Gear Double Conical Z36
+4285634,2,Functional Elements Gear Wheels And Racks,Gear Wheel 40T
+4211565,4,Functional Elements Gear Wheels And Racks,Gear Wheel T24
+6012451,4,Functional Elements Gear Wheels And Racks,Gear Wheel T8 M1
+4211432,4,Functional Elements Gear Wheels And Racks,Gear Wheel T8 M1
+4640536,4,Functional Elements Gear Wheels And Racks,Gear Wheel Z16
+4514558,4,Functional Elements Gear Wheels And Racks,Gear Wheel Z24
+471626,2,Functional Elements Gear Wheels And Racks,Gear Worm
+4211510,2,Functional Elements Gear Wheels And Racks,Gear Worm
+4239896,4,Half Beams,Half Beam 3X5 Curve
+4563045,2,Half Beams Special,Steering Knuckle Arm 2X1X3
+4120158,1,Mini Figure,Mini Body Lower Part
+4275606,1,Mini Figure,Mini Body Upper Part
+4651441,1,Mini Figure,Mini Head
+4562544,1,Mini Figure,Mini U.S. Cap
+609326,1,Mini Figure,Wig Ponytail
+4211052,2,Plates,Flat Tile 1X2
+4211398,4,Plates,Plate 1X2
+4211445,4,Plates,Plate 1X4
+4211444,2,Plates Special,Plate 2X4 W/Hole
+4211542,2,Plates Special,Plate 2X6 W/Hole
+4211449,2,Plates Special,Plate 2X8 W/Hole
+4544143,2,Rubbers And Strings,V-Belt Red
+4544151,2,Rubbers And Strings,V-Belt Yellow
+4299119,2,Tires And Rims,Wheel Rim Wide 18/14
+4297210,4,Tires And Rims,Wheel Rim Wide 30/20 W/Cross
+4297209,4,Tires And Rims,Wheel Tire Wide 56/26
+4639695,2,Tires And Rims,Wheel Tire Wide Low 24/14
+4494222,4,Tires And Rims,Wheel Wedge-Belt Rim
+6028041,4,Tires And Rims,Wheel Wedge-Belt Tire
+4100758,1,Various Parts,NXT Ball Blue
+4156530,1,Various Parts,NXT Ball Red
