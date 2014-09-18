@@ -1,0 +1,91 @@
+PartID,Quantity,Category,PartName
+4112000,2,Beams,Angle Beam Double 3X7 45 Deg
+4542578,8,Beams,Technic 15M Beam
+4208160,2,Beams,Technic 3M Beam
+4249021,2,Beams,Technic 5M Beam
+4495927,2,Beams,Technic 7M Beam
+6001831,4,Beams,Technic 9M Beam
+4168114,8,Beams,Technic Ang. Beam 4X2 90 Deg
+4182884,4,Beams,Technic Angular Beam 4X6
+4210759,4,Beams Half,Comb Wheel
+6010862,2,Beams Half,Half Beam Triangle 3X5
+4563045,4,Beams Half Special,Steering Knuckle Arm 2X1X3
+4175442,4,Beams Special,Cross Block 3M
+300101,2,Bricks,Brick 2X4
+389523,4,Bricks And Beams Special,Brick 1X12 W/Hole
+370323,4,Bricks And Beams Special,Brick 1X16 W/Hole
+4233486,4,Bricks And Beams Special,Brick 1X2 W/Cross Hole
+370023,4,Bricks And Beams Special,Brick 1X2 W/Hole
+370123,4,Bricks And Beams Special,Brick 1X4 W/Hole
+389423,4,Bricks And Beams Special,Brick 1X6 W/Hole
+370223,4,Bricks And Beams Special,Brick 1X8
+614301,2,Bricks Special Circles And Angles,Brick 16 W/Cross
+4121932,4,Bricks With Slope,Roof Tile 1X2 45 Deg.
+4210658,4,Connectors,Angle Element 0 Degrees [1]
+4107082,4,Connectors,Angle Element 157 Degr. [3]
+4234429,4,Connectors,Angle Element 180 Degrees [2]
+4211622,16,Connectors,Bushing
+4239601,16,Connectors,Bushing 1/2
+4118897,10,Connectors,Catch W. Cross Hole
+4211807,8,Connectors,Connector Peg
+4211050,6,Connectors,Connector Peg 1/0.5 M
+4514554,4,Connectors,Connector Peg 3M
+4140806,14,Connectors,Connector Peg Fric. 2M W/Cross H.
+4121715,28,Connectors,Connector Peg W/Friction
+4514553,10,Connectors,Connector Peg W/Friction 3M
+4666579,12,Connectors,Connector Peg/Cross Axle
+373726,2,Connectors,Cross Axle 10M
+370826,6,Connectors,Cross Axle 12M
+4142865,14,Connectors,Cross Axle 2M W/Groove
+4211815,8,Connectors,Cross Axle 3M
+370526,8,Connectors,Cross Axle 4M
+4211639,4,Connectors,Cross Axle 5M
+370626,2,Connectors,Cross Axle 6M
+370726,2,Connectors,Cross Axle 8M
+4512360,8,Connectors,Cross Axle Extension 2M
+4211086,4,Connectors,Crossaxle 3M W/Knob
+4525904,1,Connectors,Propeller Shaft
+4526984,2,Connectors,Tube W/Double
+4239891,1,Functional Elements,Bobbin
+4275503,1,Functional Elements Gear Wheels And Racks,Gear Bar 8M
+4211450,2,Functional Elements Gear Wheels And Racks,Gear Bar M1 Z10
+6031962,2,Functional Elements Gear Wheels And Racks,Gear Bevel Z20
+4525184,1,Functional Elements Gear Wheels And Racks,Gear Differential 3M Z 28
+4177431,2,Functional Elements Gear Wheels And Racks,Gear Double Conical Z12
+4565452,6,Functional Elements Gear Wheels And Racks,Gear Double Conical Z12
+4211434,4,Functional Elements Gear Wheels And Racks,Gear Double Conical Z24
+4285634,2,Functional Elements Gear Wheels And Racks,Gear Wheel 40T
+6012451,6,Functional Elements Gear Wheels And Racks,Gear Wheel T8 M1
+4640536,2,Functional Elements Gear Wheels And Racks,Gear Wheel Z16
+4514558,4,Functional Elements Gear Wheels And Racks,Gear Wheel Z24
+4211510,2,Functional Elements Gear Wheels And Racks,Gear Worm
+4493536,1,Labels,Foil For 9632
+4297719,2,Loose Parts,String Poly 5mm W/Spool
+4275536,1,Mini Figure,Mini Body Upper Part
+4275606,1,Mini Figure,Mini Body Upper Part
+9336,2,Mini Figure,Mini Head
+74040,1,Mini Figure,Mini Lower Part
+4120158,1,Mini Figure,Mini Lower Part
+4562544,1,Mini Figure,Mini U.S. Cap
+609326,1,Mini Figure,Mini Wig Ponytail
+243101,2,Plates,Flat Tile 1X4
+302323,8,Plates,Plate 1X2
+371023,4,Plates,Plate 1X4
+370923,6,Plates Special,Plate 2X4 W/Holes
+4114027,8,Plates Special,Plate 2X6 W/Holes
+373823,2,Plates Special,Plate 2X8 W/Holes
+4506078,1,Power Functions,Batterybox 4X11X7
+4506083,1,Power Functions,Motor 24X6M
+4514332,1,Power Functions,Wire 20Cm
+6074034,2,Rubbers And Strings,String 40 M W. 2 Knobs
+4544143,2,Rubbers And Strings,V-Belt Red
+4544140,2,Rubbers And Strings,V-Belt White
+4544151,2,Rubbers And Strings,V-Belt Yellow
+4490127,4,Tires And Rims,Wheel Rim Wide 18/14
+4297210,4,Tires And Rims,Wheel Rim Wide 30/20 W/Cross
+4184286,4,Tires And Rims,Wheel Tire Wide 2X22
+4619323,4,Tires And Rims,Wheel Tire Wide 4X14
+4494222,4,Tires And Rims Special,Wheel Wedge-Belt Rim
+6028041,4,Tires And Rims Special,Wheel Wedge-Belt Tire
+4114670,2,Transportation Means Vehicles,Steering Gear 3M
+4114671,2,Transportation Means Vehicles,Steering T Bearing 2M

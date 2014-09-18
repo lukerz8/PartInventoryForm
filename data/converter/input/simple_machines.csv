@@ -26,7 +26,6 @@ PartID,Quantity,Category,PartName
 4211805,2,Connectors,Cross Axle 7M
 370726,2,Connectors,Cross Axle 8M
 4526983,2,Connectors,Tube W/Double
-4581313,1,Figure Hair,Mini Wig
 4583147,1,Figure Head Clothing,Mini Cap
 4211434,2,Functional Elements Gear Wheels And Racks,Crown And Gear Wheel Z24
 4285634,2,Functional Elements Gear Wheels And Racks,Gear Wheel 40T
@@ -35,6 +34,7 @@ PartID,Quantity,Category,PartName
 9342,2,Mini Figure,Mini Body Lower Part
 4549942,1,Mini Figure,Mini Body Upper Part
 4580475,1,Mini Figure,Mini Body Upper Part
+4581313,1,Mini Figure,Mini Wig
 4651441,2,Mini Figure Head,Mini Head
 306924,2,Plates,Flat Tile 1X2
 243124,4,Plates,Flat Tile 1X4

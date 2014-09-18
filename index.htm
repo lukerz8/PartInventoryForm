@@ -6,11 +6,14 @@
     <title>LEGO Kit Inventory Form | Choose A Kit</title>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
     <style>
-        h2 { text-align: center; }
+		h2 { text-align: center; }
         #container { width: 860px; margin: 0px auto; }
 		#txtFields { margin: 0px auto; padding: 2px 0px 8px; width: 824px; }
 		.txtField { padding-right: 12px; padding-bottom: 10px; display: inline-block; }
-		#contactInfo { font-size: 13px; font-style: italic; text-align: center; display: block; }
+		#contactInfo {	font-size: 13px; font-style: italic; text-align: center; 
+						display: block; width: 824px; overflow: hidden; white-space: nowrap;}
+		#contactInput { margin: auto; width: 824px; font-size: 13px; font-style: italic; 
+						display: block; text-align: center; border: 1px solid #CCC; }
         .legoPart { outline: 1px solid #CCC; float: left; width: 90px; font-size: 12px;
                     height: 130px; margin: 4px; padding: 3px; text-align: center; position: relative; }
         .legoPart .desc { font-size: 9px;  }
@@ -22,8 +25,9 @@
     </style>
     <script type="text/javascript">
         // TODO: get this data dynamically
-        var kits = ["EV3" , "NXT", "Simple.Machines", "WeDo.Construction"];
-
+		var kits = ["EV3" , "NXT", "Simple.Machines", "WeDo.Construction", "Simple.Powered.Machines"];
+		var contactTxt = "";
+		
         $(document).ready(function() {
             $("<div/>", {"id": "container"}).appendTo("body");
 
@@ -35,7 +39,16 @@
         }
 
         function formOptions() {
-            $("<h2/>", {"text":"Choose A Kit"}).appendTo("#container");
+			$("<h2/>", {"text":"1. Enter Contact Information"}).appendTo("#container");
+			$("<input/>", {
+				"id":"contactInput",
+				"type":"text",
+				"value": "If you are missing any parts or have any questions about this kit, contact ",
+				"name":"contactInput",
+				"onchange":"updateInput()"
+			}).appendTo("#container");
+			
+			$("<h2/>", {"text":"2. Choose A Kit"}).appendTo("#container");
             $("<ul/>", {"id":"kitList"}).appendTo("#container");
 
             $.each(kits, function(key, val) {
@@ -47,12 +60,17 @@
                 }).appendTo("#kitList #" + key);
             });
 
-             $("<h2/>", {
-                 "text":"Refresh this page to reset the form"
-             }).appendTo("#container");
+            $("<h2/>", {
+				"text":"Note: Refresh this page to reset the form"
+            }).appendTo("#container");
         }
+		
+		function updateInput() {
+			contactTxt = $("#contactInput").val();
+		}
 
         function printKit(id) {
+			updateInput();
             $("#container").empty();
 
             changeTitle(kits[id]);
@@ -81,9 +99,7 @@
             $("<br/>").appendTo("#txtFields");
 
             //debug:
-            $("<span/>", {"id":"contactInfo", "text":
-                         "If you are missing any parts or have any questions about this kit, " +
-                         "contact "}).appendTo("#txtFields");
+            $("<span/>", {"id":"contactInfo", "text": contactTxt}).appendTo("#txtFields");
 
             $("<div/>", {"html":"<hr/>"}).appendTo("#container");
 
